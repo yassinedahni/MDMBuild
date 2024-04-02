@@ -1,1 +1,0 @@
-import{j as o}from"./index-DBl130UL.js";const s="/assets/MDM_Logo-BlOAUrnR.svg";function a(){return o.jsx("div",{className:"NotFound",children:o.jsx("img",{className:"NotFoundIMage",src:s,alt:"NotFoundIMage"})})}export{a as default};
