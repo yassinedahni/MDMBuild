@@ -1,0 +1,1 @@
+import{u as a,j as o}from"./index-DeQ0LNBO.js";const n="/assets/MDM_Logo-BlOAUrnR.svg";function u(){const s=a(),t=()=>{s("/")};return o.jsx("div",{className:"NotFound",children:o.jsx("img",{onClick:t,className:"NotFoundIMage",src:n,alt:"NotFoundIMage"})})}export{u as default};
